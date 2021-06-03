@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"archivos","l":"Ahorro"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"archivos","l":"Corriente"},{"p":"archivos","l":"Cuenta"},{"p":"archivos","l":"SecuencialCheque"}]
